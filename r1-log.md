@@ -18,4 +18,4 @@ The log of my #100DaysOfCode challenge. Started on [April 23, Thursday, 2020].
 
 **Thoughts:** I still have some issues understanding merging dataframes and also understanding multi-index level dataframe
 
-**Link to work:** [Webscraping script](https://github.com/RaphaelNagato/data_science_basics/blob/master/learning%20pandas.ipynb)
+**Link to work:** [Jupyter Notebook](https://github.com/RaphaelNagato/data_science_basics/blob/master/learning%20pandas.ipynb)
