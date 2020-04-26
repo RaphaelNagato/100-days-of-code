@@ -19,3 +19,11 @@ The log of my #100DaysOfCode challenge. Started on [April 23, Thursday, 2020].
 **Thoughts:** I still have some issues understanding merging dataframes and also understanding multi-index level dataframe
 
 **Link to work:** [Jupyter Notebook](https://github.com/RaphaelNagato/data_science_basics/blob/master/learning%20pandas.ipynb)
+
+## Day 3: April 25, 2020
+
+**Today's Progress**: I worked on two datasets today, the SF salaries kaggle dataset and a fake e-commerce dataset, performed basic panda operations on it.
+
+**Thoughts:** enjoyed using what I have learnt on the data
+
+**Link to work:** [Jupyter Notebook 1](https://github.com/RaphaelNagato/data_science_basics/blob/master/SF%20Salaries%20Exercise.ipynb) [Jupyter Notebook 2](https://github.com/RaphaelNagato/data_science_basics/blob/master/Ecommerce%20Purchases%20Exercise%20.ipynb)
