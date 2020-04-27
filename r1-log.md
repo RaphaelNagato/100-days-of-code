@@ -27,3 +27,11 @@ The log of my #100DaysOfCode challenge. Started on [April 23, Thursday, 2020].
 **Thoughts:** enjoyed using what I have learnt on the data
 
 **Link to work:** [Jupyter Notebook 1](https://github.com/RaphaelNagato/data_science_basics/blob/master/SF%20Salaries%20Exercise.ipynb) [Jupyter Notebook 2](https://github.com/RaphaelNagato/data_science_basics/blob/master/Ecommerce%20Purchases%20Exercise%20.ipynb)
+
+## Day 4: April 26, 2020
+
+**Today's Progress**: I learnt how to use matplotlib library to make plots
+
+**Thoughts:** I need to practice more
+
+**Link to work:** [Jupyter Notebook](https://github.com/RaphaelNagato/data_science_basics/blob/master/Learning_matplotlib.ipynb)
