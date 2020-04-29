@@ -43,3 +43,11 @@ The log of my #100DaysOfCode challenge. Started on [April 23, Thursday, 2020].
 **Thoughts:** I need to practice more
 
 **Link to work:** [Jupyter Notebook](https://github.com/RaphaelNagato/data_science_basics/blob/master/Learning_matplotlib.ipynb)
+
+## Day 6: April 28, 2020
+
+**Today's Progress**: Today was all about Django framework, learnt about models, admin page and just implemented a one page site and hosted it on heroku
+
+**Thoughts:** I feel at peace with the django framework
+
+**Link to work:** [Message Board](https://ancient-ridge-52522.herokuapp.com/)
