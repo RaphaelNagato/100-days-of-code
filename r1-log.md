@@ -51,3 +51,27 @@ The log of my #100DaysOfCode challenge. Started on [April 23, Thursday, 2020].
 **Thoughts:** I feel at peace with the django framework
 
 **Link to work:** [Message Board](https://ancient-ridge-52522.herokuapp.com/)
+
+## Day 7: April 29, 2020
+
+**Today's Progress**: Started building a blog app with Django, tomorrow I will integrate forms in it
+
+**Thoughts:** ---
+
+**Link to work:** [Blog App](https://github.com/RaphaelNagato/django-blog)
+
+## Day 8: April 30, 2020
+
+**Today's Progress**: Started working on forms in my Django blog, did a create view and update view
+
+**Thoughts:** ---
+
+**Link to work:** [Blog app](https://github.com/RaphaelNagato/django-blog)
+
+## Day 9: May 1, 2020
+
+**Today's Progress**: Added a delete view to my Django blog app , also started to read the seaborn library
+
+**Thoughts:** ---
+
+**Link to work:** [Blog app](https://github.com/RaphaelNagato/django-blog)
